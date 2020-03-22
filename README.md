@@ -5,6 +5,7 @@
 
 ### 1. Metrica Display
 - Una franja inferior en el viewport que muestre la medida/métrica del objeto seleccionado...
+- VIDEO: https://youtu.be/1uetmELbf7w
 
 
 ## Scripts (archivos .blend)
