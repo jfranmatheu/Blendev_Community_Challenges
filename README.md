@@ -1,7 +1,10 @@
 # Blendev_Community_Challenges
 **Retos de la comunidad en español de desarrollo en Blender**
 
-## Addons (folders)
+## Code Live
+- Archivos de los Code Live events de la comunidad...
+
+## Addons
 
 ### 1. Metrica Display
 - Una franja inferior en el viewport que muestre la medida/métrica del objeto seleccionado...
