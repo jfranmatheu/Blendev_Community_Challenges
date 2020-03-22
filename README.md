@@ -4,7 +4,7 @@
 ## Addons (folders)
 
 ### 1. Metrica Display
-- Una franja inferior que muestre la medida/métrica del objeto seleccionado...
+- Una franja inferior en el viewport que muestre la medida/métrica del objeto seleccionado...
 
 
 ## Scripts (archivos .blend)
