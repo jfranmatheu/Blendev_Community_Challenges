@@ -16,3 +16,5 @@
 ### 1. MaterialesAsignados.blend
 - Hacer print de qué materiales están asignados y cuales no lo están en el objeto activo.
 
+### 2. UVsBatchRenamer.blend
+- Un script que renombre en cadena los UV map de los objetos según una secuencia que le digamos.
