@@ -18,3 +18,15 @@
 
 ### 2. UVsBatchRenamer.blend
 - Un script que renombre en cadena los UV map de los objetos según una secuencia que le digamos.
+
+### 3. UVsBatchRenamer.blend
+- Renombrar UV de forma automatizada.
+
+### 4. LinearAnimTriaOpenGL.blend
+- Animación linear de un triangulo con OpenGL.
+
+### 5. SerachObjectByShapeKeyName.blend
+- Busqueda de un objeto por medio del nombre de la shape key.
+
+### 6. Get3DViewportViewTilt.blend
+- Saber el tilt de la vista en el viewport.
