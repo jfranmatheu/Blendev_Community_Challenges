@@ -30,3 +30,6 @@
 
 ### 6. Get3DViewportViewTilt.blend
 - Saber el tilt de la vista en el viewport.
+
+### 7. AlignPlaneToCameraPlane.blend
+- Alinea los vertices de un plano (mesh) con el plano de un objeto cámara.
